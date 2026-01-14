@@ -6,7 +6,8 @@
 *.swp
 .buildlog/
 .history
-
+.apk
+*.apk
 
 
 # Flutter repo-specific
